@@ -12,8 +12,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-- **Email:** [fpu2468@gmail.com](mailto:fpu2468@gmail.com)
-- **LinkedIn:** [Firman Panji Utama](https://www.linkedin.com/in/firmanpanjiutama/)
-- **Instagram:** [_.panji24](https://www.instagram.com/_.panji24/)
+- **Email:** <a href="mailto:fpu2468@gmail.com" target="_blank">fpu2468@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/firmanpanjiutama/" target="_blank">Firman Panji Utama</a>
+- **Instagram:** <a href="https://www.instagram.com/_.panji24/" target="_blank">_.panji24</a>
 
 Feel free to reach out to me via email, connect with me on LinkedIn, or follow me on Instagram if you have any questions, suggestions, or would like to discuss this project further.
+
+
+
